@@ -4,7 +4,7 @@
         <title>TabooLib Blog</title>
         <link>https://taboo.8aka.org/TabooLib-guide/blog</link>
         <description>TabooLib Blog</description>
-        <lastBuildDate>Wed, 30 Apr 2025 15:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2025 16:28:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[开始编写]]></title>
             <link>https://taboo.8aka.org/TabooLib-guide/blog/intro</link>
             <guid>https://taboo.8aka.org/TabooLib-guide/blog/intro</guid>
-            <pubDate>Wed, 30 Apr 2025 15:52:33 GMT</pubDate>
+            <pubDate>Wed, 30 Apr 2025 16:28:26 GMT</pubDate>
             <description><![CDATA[2025/4/30 该文档开始编写。]]></description>
             <content:encoded><![CDATA[<p>2025/4/30 该文档开始编写。</p>]]></content:encoded>
         </item>
